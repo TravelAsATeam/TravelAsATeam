@@ -4,8 +4,11 @@ Here you will find the projects I worked on during my studies as a data scientis
 
 Note that all project had very limited time to be achieved and different goal, they're meant for practice. Therefore, some may look unfinished or some parts 
 may be overlooked because they were studied with more dedication on another project.
+A titre indicatif, le projet le plus abouti est le projet 7.
 
 The full content of the course is available here : **https://openclassrooms.com/fr/paths/164-data-scientist**
+
+
 
 Bonjour, je suis un Data Scientist avec une longue expérience d'ingénieur indépendant en sciences appliquées.
 
@@ -13,3 +16,6 @@ Ici vous trouverez les projets sur lesquels j'ai travaillé durant mes études d
 
 Notez bien que tous ces projets devaient être terminé dans un temps très limité et on des objectifs d'apprentissage différents, c'est une mise en pratique.
 En conséquence, certains peuvent paraître inachevés ou certaines parties négligées car ces aspects ont déjà été étudiés dans d'autres projets.
+A titre indicatif, le projet le plus abouti est le projet 7.
+
+Le contenu complet de la formation est disponible ici : **https://openclassrooms.com/fr/paths/164-data-scientist**
